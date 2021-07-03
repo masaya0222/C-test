@@ -1,0 +1,1 @@
+/usr/local/bin/g++-11  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names -L/usr/local/opt/zlib/lib CMakeFiles/a.out.dir/test2.cpp.o -o a.out 
